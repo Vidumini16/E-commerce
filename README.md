@@ -25,8 +25,8 @@ A full-featured React + Vite application for managing an e-commerce product cata
 ### Installation
 
 ```sh
-git clone https://github.com/your-username/ecommerce-dashboard.git
-cd ecommerce-dashboard
+git clone https://github.com/Vidumini16/E-commerce
+cd E-commerce
 npm install
 # or
 yarn install
